@@ -1,0 +1,9 @@
+body {
+    color: rgb(15,15,15); 
+    font-family: 'IBM Plex Serif', serif;
+}
+
+.jumbotron {
+    background-color: rgb(35,35,35); 
+    color: #fff; 
+}
